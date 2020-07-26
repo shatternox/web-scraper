@@ -1,6 +1,5 @@
-<h1>Web Scraper</h1>
+<h1>Super Simple Scraper</h1>
 
-<h3>Yaa siapa tau berguna buat sesuatu</h3>
 
 ```
       _.--'--._
